@@ -1,0 +1,1 @@
+# Honor-MagicBook-MediaTek-MT7920-WiFi-Driver
