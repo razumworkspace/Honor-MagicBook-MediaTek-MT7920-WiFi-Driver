@@ -1,4 +1,3 @@
-# Honor-MagicBook-MediaTek-MT7920-WiFi-Driver
 # Wi-Fi Driver: MediaTek MT7920 (Honor MagicBook AMD)
 
 [🇷🇺 Читать на русском (Read in Russian)](README_RU.md)
